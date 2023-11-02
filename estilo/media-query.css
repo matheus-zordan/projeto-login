@@ -18,6 +18,9 @@
     body{
         background-image: linear-gradient(to top, #b9ffff, #003785);
     }
+    #formulario p{
+        font-size: 1.2em;
+    }
 
 }
 
@@ -36,5 +39,8 @@
     }
     body{
         background-image: linear-gradient(to top, #b9ffff, #003785);
+    }
+    #formulario p{
+        font-size: 1.4em;
     }
 }
